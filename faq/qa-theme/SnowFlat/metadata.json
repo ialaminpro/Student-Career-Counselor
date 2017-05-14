@@ -1,0 +1,10 @@
+{
+	"name": "SnowFlat",
+	"description": "SnowFlat responsive theme with RTL support",
+	"version": "1.4",
+	"date": "2014-03-11",
+	"author": "DIU_Debugger",
+	"author_uri": "https://www.thealamin.com",
+	"license": "GPLv2",
+	"min_q2a": "1.7"
+}
